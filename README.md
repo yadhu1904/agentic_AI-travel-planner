@@ -95,7 +95,6 @@ streamlit run frontend.py
 
 ## License
 
-Add your preferred license (e.g., MIT) at the repository root as LICENSE and note any model/provider terms that apply.[19]
 
 [1](https://python.langchain.com/docs/tutorials/llm_chain/)
 [2](https://langchain-ai.github.io/langgraph/concepts/template_applications/)
@@ -118,3 +117,4 @@ Add your preferred license (e.g., MIT) at the repository root as LICENSE and not
 [19](https://docs.github.com/articles/ignoring-files)
 [20](https://stackoverflow.com/questions/73727750/how-to-pass-env-file-to-fastapi-app-via-command-line)
 [21](https://docs.streamlit.io/develop/api-reference/execution-flow/st.rerun)
+
