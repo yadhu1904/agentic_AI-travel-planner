@@ -1,5 +1,3 @@
-Below is a simple README.md you can paste into your repo for this Smart Travel Planner project.[10]
-
 # Smart Travel Planner
 
 A chat-based travel planner with a Streamlit frontend and a FastAPI + LangGraph backend that collects trip details, asks for a single approval, generates a full itinerary, and keeps the conversation going for follow‑ups.[11][10]
@@ -117,4 +115,5 @@ streamlit run frontend.py
 [19](https://docs.github.com/articles/ignoring-files)
 [20](https://stackoverflow.com/questions/73727750/how-to-pass-env-file-to-fastapi-app-via-command-line)
 [21](https://docs.streamlit.io/develop/api-reference/execution-flow/st.rerun)
+
 
